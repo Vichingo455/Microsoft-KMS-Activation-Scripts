@@ -13,4 +13,5 @@ echo ===========================================================================
 echo ============================================================================&echo.&echo Sorry, your version is not supported.&echo.&goto halt 
 :busy 
 echo ============================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo.
-:halt pause >nul
+:halt 
+pause >nul
