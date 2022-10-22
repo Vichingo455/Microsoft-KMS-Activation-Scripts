@@ -1,2 +1,2 @@
-# Microsoft-KMS-Activation-Scripts
-KMS Activation scripta for all Microsoft products (Credits to MSGuides.com)
+# Microsoft KMS Activation scripts
+KMS Activation scripts for all Microsoft products (Credits to MSGuides.com)
